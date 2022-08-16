@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacobMembrino
 - 👀 I’m interested in cryptography and cybersecurity
-- 🌱 I’m currently learning about penetration testing in python
+- 🌱 I’m currently learning about fog computing archetecture (I'm a fan boy)
 - 💞️ I’m looking to collaborate on crypto currency open source projects
 - 📫 How to reach me: don't.
 
